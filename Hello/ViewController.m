@@ -20,9 +20,9 @@
     
     
     self.view.backgroundColor = [UIColor redColor];
+    self.automaticallyAdjustsScrollViewInsets = NO;
     
-    
-    
+    然后可以去你git上看一下有没有记录
     
     
     NSPointerFunctionsObjectPointerPersonality
